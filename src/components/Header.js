@@ -28,7 +28,7 @@ const Header = () => {
               to="/create"
               className="ml1 no-underline black"
             >
-              submit
+              Submit
             </Link>
           </div>
         )}
